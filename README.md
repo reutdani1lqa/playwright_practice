@@ -1,4 +1,4 @@
-Here is exmaples of what did I learnt during Playwright course.
+Here is examples of what did I learnt during Playwright course.
 All tests where created unsing Typescript.
 
 | My skills | in Playwright |
